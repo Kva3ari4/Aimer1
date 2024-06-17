@@ -1,0 +1,23 @@
+{
+    "name": "Aimer",
+    "short_name": "Aim",
+    "theme_color": "#0f3554",
+    "background_color": "#135284",
+    "display": "fullscreen",
+    "start_url": "testovi.html",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src":"icon.png",
+            "sizes":"512x512",
+            "type":"image/png",
+            "form_factor":"narrow"
+        }
+    ]
+}
